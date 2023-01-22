@@ -1,0 +1,226 @@
+[
+  {
+    "nome": "Ventilador XPTO",
+    "preco": 159.99,
+    "quantidadeEmEstoque": 15,
+    "estoqueMinimo": 10,
+    "cagegoria": "Portateis",
+    "fabricante": {
+      "nome": "Amorin Wind",
+      "endereco": {
+        "logradouro": "Rua das paletas, nº 173",
+        "bairro": "Centro",
+        "cidade": "São Paulo",
+        "uf": "SP"
+      }
+    }
+  },
+  {
+    "nome": "Smartphone XT 64GB",
+    "preco": 899.99,
+    "quantidadeEmEstoque": 5,
+    "estoqueMinimo": 10,
+    "cagegoria": "Portateis",
+    "fabricante": {
+      "nome": "Dias Tech",
+      "endereco": {
+        "logradouro": "Rua do silício, nº 999",
+        "bairro": "Centro",
+        "cidade": "São Paulo",
+        "uf": "SP"
+      }
+    }
+  },
+  {
+    "nome": "Guarda-Roupa Imperial 18 portas",
+    "preco": 1799.99,
+    "quantidadeEmEstoque": 50,
+    "estoqueMinimo": 20,
+    "cagegoria": "Móveis",
+    "fabricante": {
+      "nome": "Movelartech",
+      "endereco": {
+        "logradouro": "Rua da madeira, nº 98",
+        "bairro": "Vilas do Atlantico",
+        "cidade": "Lauro de Freitas",
+        "uf": "BA"
+      }
+    }
+  },
+  {
+    "nome": "Mesa de Jantar Imperial",
+    "preco": 1299.99,
+    "quantidadeEmEstoque": 12,
+    "estoqueMinimo": 15,
+    "cagegoria": "Móveis",
+    "fabricante": {
+      "nome": "Movelartech",
+      "endereco": {
+        "logradouro": "Rua da madeira, nº 98",
+        "bairro": "Vilas do Atlantico",
+        "cidade": "Lauro de Freitas",
+        "uf": "BA"
+      }
+    }
+  },
+  {
+    "nome": "Sofá Colonial 3 lugaes",
+    "preco": 1499.99,
+    "quantidadeEmEstoque": 11,
+    "estoqueMinimo": 10,
+    "cagegoria": "Móveis",
+    "fabricante": {
+      "nome": "Movelartech",
+      "endereco": {
+        "logradouro": "Rua da madeira, nº 98",
+        "bairro": "Pituba",
+        "cidade": "Salvador",
+        "uf": "BA"
+      }
+    }
+  },
+  {
+    "nome": "Notebook i3 8GB",
+    "preco": 2499.99,
+    "quantidadeEmEstoque": 3,
+    "estoqueMinimo": 10,
+    "cagegoria": "Informática",
+    "fabricante": {
+      "nome": "BuiuTech",
+      "endereco": {
+        "logradouro": "Av. Clock Alto, nº 155",
+        "bairro": "Centro",
+        "cidade": "Salvador",
+        "uf": "BA"
+      }
+    }
+  },
+  {
+    "nome": "Notebook i5 16GB",
+    "preco": 4499.99,
+    "quantidadeEmEstoque": 35,
+    "estoqueMinimo": 10,
+    "cagegoria": "Informática",
+    "fabricante": {
+      "nome": "BuiuTech",
+      "endereco": {
+        "logradouro": "Av. Clock Alto, nº 155",
+        "bairro": "Centro",
+        "cidade": "Salvador",
+        "uf": "BA"
+      }
+    }
+  },
+  {
+    "nome": "Smartphone Z",
+    "preco": 999.99,
+    "quantidadeEmEstoque": 25,
+    "estoqueMinimo": 20,
+    "categoria": "Eletrônicos",
+    "fabricante": {
+      "nome": "Tech Inc",
+      "endereco": {
+        "logradouro": "Avenida Paulista, nº 1000",
+        "bairro": "Jardim Paulista",
+        "cidade": "São Paulo",
+        "uf": "SP"
+      }
+    }
+  },
+  {
+    "nome": "Fogão 4 bocas",
+    "preco": 899.99,
+    "quantidadeEmEstoque": 30,
+    "estoqueMinimo": 15,
+    "categoria": "Eletrodomésticos",
+    "fabricante": {
+      "nome": "Cook Master",
+      "endereco": {
+        "logradouro": "Rua dos fogões, nº 50",
+        "bairro": "Vila Madalena",
+        "cidade": "São Paulo",
+        "uf": "SP"
+      }
+    }
+  },
+  {
+    "nome": "Televisão LED 50 polegadas",
+    "preco": 2999.99,
+    "quantidadeEmEstoque": 10,
+    "estoqueMinimo": 8,
+    "categoria": "Eletrônicos",
+    "fabricante": {
+      "nome": "Vision",
+      "endereco": {
+        "logradouro": "Rua das telas, nº 100",
+        "bairro": "Pinheiros",
+        "cidade": "São Paulo",
+        "uf": "SP"
+      }
+    }
+  },
+  {
+    "nome": "Lavadora de roupas 10kg",
+    "preco": 1299.99,
+    "quantidadeEmEstoque": 15,
+    "estoqueMinimo": 10,
+    "categoria": "Eletrodomésticos",
+    "fabricante": {
+      "nome": "Clean House",
+      "endereco": {
+        "logradouro": "Rua das lavadoras, nº 200",
+        "bairro": "Itaim Bibi",
+        "cidade": "São Paulo",
+        "uf": "SP"
+      }
+    }
+  },
+  {
+    "nome": "Notebook Gamer",
+    "preco": 3999.99,
+    "quantidadeEmEstoque": 12,
+    "estoqueMinimo": 8,
+    "categoria": "Eletrônicos",
+    "fabricante": {
+      "nome": "Game Tech",
+      "endereco": {
+        "logradouro": "Rua dos jogos, nº 250",
+        "bairro": "Vila Olímpia",
+        "cidade": "São Paulo",
+        "uf": "SP"
+      }
+    }
+  },
+  {
+    "nome": "Batedeira Kitchen Aid",
+    "preco": 699.99,
+    "quantidadeEmEstoque": 20,
+    "estoqueMinimo": 15,
+    "categoria": "Cozinha",
+    "fabricante": {
+      "nome": "Kitchen Aid",
+      "endereco": {
+        "logradouro": "Rua das batedeiras, nº 300",
+        "bairro": "Jardins",
+        "cidade": "São Paulo",
+        "uf": "SP"
+      }
+    }
+  },
+  {
+    "nome": "Aspirador de pó",
+    "preco": 299.99,
+    "quantidadeEmEstoque": 25,
+    "estoqueMinimo": 20,
+    "categoria": "Limpeza",
+    "fabricante": {
+      "nome": "Clean Home",
+      "endereco": {
+        "logradouro": "Rua dos aspiradores, nº 350",
+        "bairro": "Moema",
+        "cidade": "São Paulo",
+        "uf": "SP"
+      }
+    }
+  }
+]
