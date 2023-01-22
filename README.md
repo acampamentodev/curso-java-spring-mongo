@@ -4,6 +4,7 @@ Aqui você pode conferir todos os códigos utilizados no treinamento
 ## Exemplos de códigos vistos durante o curso
 
 - [MongoDB](https://github.com/acampamentodev/curso-java-spring-mongo/blob/main/mongodb/queries.md)
+  - [produtos.json](https://github.com/acampamentodev/curso-java-spring-mongo/blob/main/mongodb/produtos.json)
 
 - Java básico
   - [Estruturas condicionais](https://github.com/acampamentodev/curso-java-spring-mongo/blob/main/javaBasico/if.md)
